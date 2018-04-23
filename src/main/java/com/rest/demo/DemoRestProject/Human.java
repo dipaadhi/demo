@@ -4,7 +4,7 @@ import javax.xml.bind.annotation.XmlRootElement;
 
 @XmlRootElement
 public class Human {
-	
+	//git test
 	private String name;
 	private int id;
 	public String getName() {
